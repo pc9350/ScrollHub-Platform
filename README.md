@@ -44,5 +44,13 @@ To get a local copy up and running, follow these simple steps:
 
 This will start the development server, and you can view the project at http://localhost:3000 (or your configured port) in your preferred browser.
 
+**SCREENSHOTS**
+
+**Light Mode**
+![Screenshot of ScrollHub](Project_photo(light_mode).png)
+
+**Dark Mode**
+![Screenshot of ScrollHub](Project_photo(dark_mode).png)
+
 **Contact**
 Pranav Chhabra - chhabrapranav2001@gmail.com

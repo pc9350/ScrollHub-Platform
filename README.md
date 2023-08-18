@@ -45,5 +45,3 @@ This will start the development server, and you can view the project at http://l
 
 **Contact**
 Pranav Chhabra - chhabrapranav2001@gmail.com
-
-Project Link: 

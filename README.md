@@ -47,10 +47,16 @@ This will start the development server, and you can view the project at http://l
 **SCREENSHOTS**
 
 **Light Mode**
+
+
 ![Screenshot of ScrollHub](Project_photo(light_mode).png)
 
+
 **Dark Mode**
+
+
 ![Screenshot of ScrollHub](Project_photo(dark_mode).png)
+
 
 **Contact**
 Pranav Chhabra - chhabrapranav2001@gmail.com
